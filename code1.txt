@@ -1,0 +1,6 @@
+class A:
+    print("Hello World!")
+class B(A):
+    print("Hello python!")
+    
+k=B()
